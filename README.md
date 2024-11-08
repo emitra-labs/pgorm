@@ -4,11 +4,7 @@ This library combines PostgreSQL and GORM for simplified database interactions.
 
 ## Quickstart
 
-Make sure you've set these required environment variables:
-
-```
-PGORM_URL="postgres://username:password@localhost:5432/database_name?sslmode=disable"
-```
+Make sure the environment variables are set (refer to `.env.example`).
 
 Here's a simple code to demonstrates how to use it:
 
