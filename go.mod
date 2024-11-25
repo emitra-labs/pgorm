@@ -5,7 +5,7 @@ go 1.23.3
 require (
 	github.com/emitra-labs/common v1.0.7
 	github.com/sethvargo/go-envconfig v1.1.0
-	gorm.io/driver/postgres v1.5.9
+	gorm.io/driver/postgres v1.5.10
 	gorm.io/gorm v1.25.12
 )
 
